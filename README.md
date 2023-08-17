@@ -5,12 +5,12 @@ Daftar Materi :
 •	Pengenalan JavaScript v
 •	Program Hello World v
 •	Komentar v
-•	Tipe Data Number
-•	Tipe Data Boolean
-•	Tipe Data String
-•	Variable
-•	Operator Matematika
-•	Operator Perbandingan
+•	Tipe Data Number v
+•	Tipe Data Boolean v
+•	Tipe Data String v
+•	Variable v
+•	Operator Matematika v
+•	Operator Perbandingan v
 •	Operator Logika
 •	Console
 •	String Template
